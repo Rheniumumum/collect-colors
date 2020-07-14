@@ -13,5 +13,5 @@
  - GitHub for Unity
  
 ## URL
-フリーゲーム投稿サイトunityroomで公開しています。<br>
-　いろあつめ - Rhenium https://unityroom.com/games/collect-colors
+GitHub Pagesで公開しています。<br>
+　https://rheniumumum.github.io/collect-colors/
