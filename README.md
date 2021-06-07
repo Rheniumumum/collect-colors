@@ -14,4 +14,4 @@
  
 ## URL
 GitHub Pagesで公開しています。<br>
-　https://rheniumumum.github.io/collect-colors/
+https://rheniumumum.github.io/collect-colors/
